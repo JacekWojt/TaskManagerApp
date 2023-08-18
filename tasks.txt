@@ -1,0 +1,8 @@
+admin, rejestracja, zarejestrować nowego pracownika w systemie, 10 Jan 2023, 20 Sep 2023, Yes
+admin, usunąć, usunąć pracownika z systemu, 10 Jan 2023, 20 Feb 2023, Yes
+admin, premia, dodać premię najlepszemu pracownikowi, 10 Jan 2023, 20 Feb 2023, No
+rambo, wygrać, wygrać wojnę z przeciwnikiem, 10 Jan 2023, 10 Jan 2023, Yes
+rambo, uratować, uratować cywili, 10 Jan 2023, 20 Feb 2024, No
+superman, uratować, uratować Ziemię przed obcymi z kosmosu, 10 Jan 2023, 20 Feb 2023, No
+superman, pokonać, pokonać nieprzyjaciół, 10 Jan 2023, 20 May 2023, No
+superman, pokój, zachować pokój na Ziemi, 10 Jan 2023, 20 May 2023, No
